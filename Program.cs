@@ -64,7 +64,9 @@ namespace TicTacToe
 
         //static void StartGame()
         //{
-
+            // draw Board...
+            // inititialize Players (X & O)
+            // etc.
         //}
 
         //static void GameLoop()
