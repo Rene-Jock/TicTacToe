@@ -47,6 +47,9 @@ namespace TicTacToe
                 }
                 if (end)
                 {
+                    Console.ForegroundColor= ConsoleColor.Yellow;
+                    Console.WriteLine("Auf Wiedersehen! Zum Beenden, drücke 'Enter'.");
+                    Console.ReadKey();
                     break;
                 }
 
